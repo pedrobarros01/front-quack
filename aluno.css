@@ -1,0 +1,16 @@
+.fundo-navbar {
+  background-color: orange;
+}
+
+.imagem-aluno {
+  object-fit: cover;
+  height: 300px;
+}
+
+.fundo-primario {
+  background-color: #cdc9c9;
+}
+
+.fonte {
+  font-family: "Edu TAS Beginner", cursive;
+}
